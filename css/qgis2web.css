@@ -198,7 +198,10 @@
             white-space: nowrap;
         }
         
-        .css_goroda_2 {
+        .leaflet-control-layers-expanded .leaflet-control-layers-toggle {
+            display: none;
+        }
+        .css__2 {
             pointer-events: none!important;
             text-shadow: -2px -2px 0 #fafafa,
                 -2px -1px 0 #fafafa,
